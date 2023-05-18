@@ -4,7 +4,6 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - pandas
-  - csvkit
   - bqplot
   - folium
   - haversine
